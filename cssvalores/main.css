@@ -1,0 +1,66 @@
+main{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.fundo{
+    display: flex;
+    width: 600px;
+    height: 200px;
+    margin-top: 0%;
+    justify-content: center;
+    text-align: center;
+    
+}
+@font-face {
+    font-family: hellomorgan;
+    src: url("../fontes/hellomorgan/HelloMorgan.ttf");
+
+}
+.pmorgan{
+    font-family: hellomorgan;
+    color: goldenrod;
+    width: 900px;
+    height: 200px;
+    font-size: 90px;
+    }
+    
+.suges{
+    margin-top: 40px;
+    text-align: center;
+    width: 100%;
+   
+    font-size: 24px;
+    color: #ededed;
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color: black;
+    /*overflow-y: hidden;*/
+    width: 100%;
+    height: 90vh;
+    
+}
+
+.Caixa{
+    width: 800px;
+    height: 296px;
+    background-color: #ededed;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    border: 3px solid goldenrod;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+}

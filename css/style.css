@@ -1,0 +1,9 @@
+@import "categorias.css";
+@import "header.css";
+@import "links.css";
+@import "footer.css";
+@import "main.css";
+
+header{
+    margin: 0%;
+}

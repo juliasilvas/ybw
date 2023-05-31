@@ -1,0 +1,54 @@
+.categorias__titulo {
+    color: goldenrod;
+   
+    font-family: 'Rubik',sans-serif;
+    font-size: 28px;
+  
+}
+
+.imagem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 80px;
+}
+
+.papi {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+#produtos{
+    font-family: 'Rubik',sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+#cabelos{
+    font-family: 'Rubik',sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+#maquiagem{
+    font-family: 'Rubik',sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.categorias__link {
+    text-decoration: none;
+    color: white;
+}
+#imagens {
+    border-radius: 18px;
+    gap: 30px;
+}
+.imagensAlinhamento{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+}

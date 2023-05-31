@@ -1,0 +1,12 @@
+@import "header.css";
+@import "hover.css";
+@import "header.css";
+@import "main.css";
+@import "formulario.css";
+@import "footer.css";
+
+@font-face {
+    font-family: 'Hello Morgan';  
+    src: url(../Fontes/HelloMorgan.ttf)
+}
+
